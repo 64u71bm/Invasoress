@@ -1,3 +1,5 @@
+Copyright © 2018 Gautam Balamurali
+
 var game = new Phaser.Game(window.innerWidth, window.innerHeight, Phaser.CANVAS, null, { preload: preload, create: create, update: update, render: render });
 var player;
 var w = window.innerWidth;
