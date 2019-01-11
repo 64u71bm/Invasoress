@@ -1,0 +1,29 @@
+GROUP 14
+FISAT S5 CSE-A(2016-20)
+INVASORESS(PHASER - JS)
+
+Friday 30 November 2018 11:40:14 PM IST
+
+GROUP MEMBERS :->
+
+1) GAUTAM BALAMURALI (FIT16CS049)
+2) DANIEL SAM PAUL (FIT16CS040)
+3) HARIKRISHNAN MENON (FIT16CS053)
+
+About the game
+
+	Our project title ”Invasoress” is a Spanish word which means invaders. Here we
+		are referring invaders to a group of aliens.
+
+	This is an arcade game. In this game there consists a single spaceship controlled
+		by user and a group of aliens who will try to defeat user and destroy the planet
+		Earth. The objective of the user is to defeat as much as aliens possible and save
+		the planet from invaders.		
+
+	Just open index.html file with any compatible browser(Firefox recommended) and play.
+	Note : Main code is in game.js file.
+
+How to play the game?
+
+	Use mouse cursor or left and right cursor keys to move the player. 
+	Press spacebar to fire.
